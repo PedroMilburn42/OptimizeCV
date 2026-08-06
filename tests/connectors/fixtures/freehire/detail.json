@@ -1,0 +1,16 @@
+{
+  "data": {
+    "public_slug": "python-example-tech-abc123",
+    "source": "workday",
+    "title": "Python",
+    "company": "Example Tech",
+    "company_slug": "example-tech",
+    "location": "Remote",
+    "description": "<p><b>Software Requirements:</b></p><ul><li>Strong understanding of other technology platforms such as mobile, cloud, and IoT.</li><li>Knowledge of software development life cycle (SDLC) and Agile methodologies.</li></ul><p><b>Overall Responsibilities:</b></p><ul><li>Work closely with cross-functional teams to understand technology requirements and design solutions.</li><li>Develop technical specifications and detailed documentation for new features.</li></ul>",
+    "countries": ["uy"],
+    "regions": ["latam"],
+    "skills": ["python", "sql", "agile"],
+    "posted_at": "2026-07-31T00:00:00Z",
+    "url": "https://example.com/jobs/python-example-tech-abc123"
+  }
+}

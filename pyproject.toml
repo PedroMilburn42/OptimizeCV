@@ -1,0 +1,33 @@
+[project]
+name = "rolesherpa"
+version = "0.1.0"
+description = "AI-agent job-application assistant: fit evaluation, tailored CV/cover-letter drafting, and interview prep, built on the Agent Skills format."
+authors = [
+    { name = "c-ibarra", email = "105107110+c-ibarra@users.noreply.github.com" }
+]
+license = "MIT"
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28.1",
+    "pypdf>=6.14.2",
+    "pyyaml>=6.0.3",
+    "selectolax>=0.4.11",
+    "weasyprint>=69.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "integration: hits a real live endpoint over the network; excluded by default (run with -m integration)",
+]
+addopts = "-m 'not integration'"
+
+[build-system]
+requires = ["uv_build>=0.11.21,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "pytest-cov>=7.1.0",
+]

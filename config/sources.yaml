@@ -1,0 +1,35 @@
+sources:
+  linkedin:
+    enabled: true
+    module: rolesherpa.connectors.linkedin:LinkedInConnector
+
+  freehire:
+    enabled: true
+    module: rolesherpa.connectors.freehire:FreehireConnector
+
+  computrabajo:
+    enabled: true
+    module: rolesherpa.connectors.computrabajo:ComputrabajoConnector
+
+  buscojobs:
+    enabled: false
+    blocked_reason: >
+      robots.txt explicitly disallows Claude/Anthropic-derived agents
+      (User-agent: ClaudeBot -> Disallow: /). Not a volume or tooling
+      question - do not attempt via a different User-Agent string.
+
+  indeed_uy:
+    enabled: false
+    blocked_reason: >
+      robots.txt disallows /jobs, /viewjob, /q- paths; an active Cloudflare
+      challenge triggers on the CDP automation protocol itself, confirmed
+      even with a real logged-in Chrome profile. Not a cookie/session
+      problem.
+
+  getonbrd:
+    enabled: false
+    blocked_reason: >
+      Job listings are client-side rendered and return zero real postings
+      under any tested automation approach (plain fetch, headless
+      Playwright with networkidle wait, real Chrome with a logged-in
+      profile).

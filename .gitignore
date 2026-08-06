@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# uv / venv
+.venv/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# JetBrains IDE local config
+.idea/
+
+# OS
+.DS_Store
+
+# Personal runtime state (see data/README.md). data/applications/ is the
+# single per-application folder — draft, submitted, and archived
+# materials all live there (apply/SKILL.md creates it; outcome/SKILL.md
+# and interview/SKILL.md write into the same folder, no separate
+# staging directory).
+/data/seen_jobs.json
+/data/job_search_tracker.csv
+/data/applications/*
+!/data/applications/.gitkeep
+/data/profile/*
+!/data/profile/.gitkeep
+
+# Personal source materials for onboarding (see documents/README.md)
+/documents/cv/*
+/documents/linkedin/*
+/documents/diplomas/*
+/documents/references/*
+!/documents/**/.gitkeep
+
+# Gap-analysis reports (see upskill/README.md) — reference real tracked
+# companies/roles, personal data like data/ and documents/.
+/upskill/*
+!/upskill/.gitkeep
+!/upskill/README.md
+
+# Scratch files from add-template/SKILL.md's mandatory test-render
+# (Step 4) — created directly inside templates/, which is otherwise
+# tracked, so this is a safety net in case cleanup gets interrupted.
+_scratch.*
+
+# Project-local scratch/temp space (e.g. handoff docs) — not portfolio
+# content, never committed.
+/tmp/

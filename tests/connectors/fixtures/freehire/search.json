@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "public_slug": "python-example-tech-abc123",
+      "source": "workday",
+      "title": "Python",
+      "company": "Example Tech",
+      "company_slug": "example-tech",
+      "location": "Remote",
+      "description": "<p><b>Software Requirements:</b></p><ul><li>Strong Python fundamentals.</li></ul>",
+      "countries": ["uy"],
+      "regions": ["latam"],
+      "skills": ["python", "sql"],
+      "posted_at": "2026-07-31T00:00:00Z",
+      "url": "https://example.com/jobs/python-example-tech-abc123"
+    },
+    {
+      "public_slug": "go-northwind-def456",
+      "source": "greenhouse",
+      "title": "Go Engineer",
+      "company": "Northwind Systems",
+      "company_slug": "northwind-systems",
+      "location": "Berlin, Germany",
+      "description": "<p>Backend role using Go.</p>",
+      "countries": ["de"],
+      "regions": ["emea"],
+      "skills": ["go", "kubernetes"],
+      "posted_at": "2026-07-28T00:00:00Z",
+      "url": "https://example.com/jobs/go-northwind-def456"
+    },
+    {
+      "public_slug": "data-analyst-bramble-ghi789",
+      "source": "lever",
+      "title": "Data Analyst",
+      "company": "Bramble Logistics",
+      "company_slug": "bramble-logistics",
+      "location": "London, United Kingdom",
+      "description": "<p>Analytics role.</p>",
+      "countries": ["gb"],
+      "regions": ["emea"],
+      "skills": ["sql", "python"],
+      "posted_at": "2026-07-25T00:00:00Z",
+      "url": "https://example.com/jobs/data-analyst-bramble-ghi789"
+    }
+  ]
+}

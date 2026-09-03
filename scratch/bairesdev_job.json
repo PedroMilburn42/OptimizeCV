@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "Ingeniero de Software .NET - Trabajo Remoto",
+  "description": "Desarrolla y mantiene aplicaciones de software robustas usando el framework .NET para entregar soluciones confiables que cumplen objetivos de negocio. Este rol se enfoca en la construcción de sistemas backend escalables, colaboración con equipos multifuncionales e implementación de mejores prácticas a lo largo del ciclo de vida de desarrollo de software.",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "Job ID",
+    "value": 286773
+  },
+  "datePosted": "2025-12-26T17:42:38.787",
+  "validThrough": "2026-11-23T14:43:47.44",
+  "applicantLocationRequirements": {
+    "@type": "Country",
+    "name": "Argentina,Uruguay,Brazil,Peru,Colombia,Venezuela,Bolivia,Chile,Paraguay,Ecuador,Mexico,Costa Rica,Guatemala,El Salvador,Nicaragua,Honduras,Panama,Dominican Republic,Jamaica,Anguilla,Martinique,Montserrat,Netherlands Antilles,Puerto Rico,St. Kitts & Nevis,St. Lucia,St. Vincent & Grenadines,Suriname,Trinidad & Tobago,Turks & Caicos Islands,British Virgin Islands,U.S. Virgin Islands,Antigua & Barbuda,Aruba,Bahamas,Barbados,Belize,Cayman Islands,Curaçao,Dominica,Falkland Islands / Islas Malvinas,French Guiana,Grenada,Guyana,Haiti"
+  },
+  "jobLocationType": "TELECOMMUTE",
+  "employmentType": "FULL_TIME",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "BairesDev",
+    "sameAs": "https://www.bairesdev.com",
+    "logo": "https://applicants.bairesdev.com/assets/cropped-favicon-180x180.png"
+  }
+}

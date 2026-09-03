@@ -191,6 +191,6 @@ def test_parses_real_profile_file_without_crashing():
     path = Path(__file__).parents[2] / "data/profile/candidate-profile.md"
     if not path.exists():
         pytest.skip("requires a populated data/profile/candidate-profile.md (gitignored, local-only)")
-    text = path.read_text()
+    text = path.read_text(encoding="utf-8")
     entries = parse_profile_experience(text, today=date(2026, 8, 2))
     assert len(entries) >= 8

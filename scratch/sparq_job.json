@@ -1,0 +1,1003 @@
+{
+  "_nextI18Next": {
+    "initialI18nStore": {
+      "en-US": {
+        "atsFe": {
+          "atsFe": {
+            "common": {
+              "appName": "Recruiting",
+              "fullAppName": "Rippling Recruiting",
+              "loading": "Loading",
+              "loading1": "Loading...",
+              "search": "Search",
+              "custom": "Custom",
+              "cancel": "Cancel",
+              "required": "Required",
+              "optional": "Optional",
+              "doNotAsk": "Don't ask",
+              "submit": "Submit",
+              "confirm": "Confirm",
+              "save": "Save",
+              "update": "Update",
+              "add": "Add",
+              "activate": "Activate",
+              "create": "Create",
+              "edit": "Edit",
+              "duplicate": "Make a copy",
+              "delete": "Delete",
+              "remove": "Remove",
+              "view": "View",
+              "preview": "Preview",
+              "continue": "Continue",
+              "goBack": "Go Back",
+              "exit": "Exit",
+              "viewMore": "View more",
+              "cannotView": "Cannot view",
+              "viewLive": "View Live",
+              "notProvided": "Not provided",
+              "learnMore": "Learn more",
+              "previewEmail": "Preview email",
+              "none": "None",
+              "type": "Type",
+              "yes": "Yes",
+              "no": "No",
+              "copy": "Copy",
+              "in": "in",
+              "error_plural": "Error(s)",
+              "updatedSuccessfully": "Updated successfully.",
+              "createdSuccessfully": "Created successfully.",
+              "addedSuccessfully": "Added successfully.",
+              "renamedSuccessfully": "Renamed successfully.",
+              "onlyShowActionRequired": "Only show action required",
+              "onlyShowMyRequisitions": "Only show my requisitions",
+              "unCheckOnlyShowActionRequired": "Uncheck \"Only show my requisitions\" to see more.",
+              "allCaughtUp": "All caught up!",
+              "addFilters": "Add filters",
+              "jobRequisitions": "Job requisitions",
+              "jobRequisition": "Job requisition",
+              "recruiter": "Recruiter",
+              "secondaryRecruiters": "Secondary recruiters",
+              "coordinator": "Coordinator",
+              "sourcer": "Sourcer",
+              "applicationReviewers": "Application reviewers",
+              "hiringManager": "Hiring manager",
+              "candidate": "Candidate",
+              "candidates": "Candidates",
+              "codePair": "Codepair",
+              "linkedIn": "LinkedIn",
+              "website": "Website",
+              "recruiting": "Recruiting",
+              "applicant": "Applicant",
+              "application": "Application",
+              "applications": "Applications",
+              "status": "Status",
+              "progress": "Progress",
+              "activity": "Activity",
+              "saveChanges": "Save changes",
+              "interview": "Interview",
+              "resumeFileLabel": "R\u00e9sum\u00e9",
+              "stage": "Stage",
+              "move": "Move",
+              "emailCandidate": "Email candidate",
+              "firstName": "First name",
+              "middleName": "Middle name",
+              "lastName": "Last name",
+              "phoneNumber": "Phone number",
+              "linkedInLink": "LinkedIn Link",
+              "websiteLink": "Website link",
+              "back": "Back",
+              "subject": "Subject",
+              "body": "Body",
+              "attachments": "Attachments",
+              "email": "Email",
+              "phone": "Phone",
+              "showLess": "Show less",
+              "name": "Name",
+              "level": "Level",
+              "levels": "Levels",
+              "manager": "Manager",
+              "message": "Message",
+              "timezone": "Timezone",
+              "currentCompany": "Current company",
+              "location": "Location",
+              "locationPlural": "Locations",
+              "source": "Source",
+              "pipelineId": "Pipeline ID",
+              "requisitionId": "Requisition ID",
+              "jobReqName": "Job requisition name",
+              "milestone": "Milestone",
+              "other": "Other",
+              "rejection": "Rejection",
+              "emailSubject": "Email subject",
+              "emailBody": "Email body",
+              "yesRemove": "Yes, remove",
+              "discardContinue": "Discard and continue",
+              "department": "Department",
+              "departments": "Departments",
+              "jobPost": "Job post",
+              "jobPostPlural": "Job posts",
+              "createdOn": "Created on",
+              "extendedOn": "Extended on",
+              "acceptedOn": "Accepted on",
+              "notSpecified": "Not specified",
+              "removedSuccessfully": "Removed successfully.",
+              "createNew": "Create new",
+              "duplicate1": "Duplicate",
+              "lastModified": "Last modified",
+              "interviewer": "Interviewer",
+              "default": "Default",
+              "uncheckMyReqToSeeMore": "Uncheck \"Only show my requisitions\" to see more.",
+              "applicationStatus": "Application status",
+              "selectApplicationStatus": "Select application status",
+              "appliedOn": "Applied on",
+              "hiredAt": "Hired at",
+              "rejectedAt": "Rejected at",
+              "rejectionReason": "Rejection reason",
+              "selectRejectionReason": "Select rejection reason",
+              "selectSource": "Select source",
+              "referredBy": "Referred by",
+              "selectReferrer": "Select referrer",
+              "jobSite": "Job site",
+              "selectJobSite": "Select job site",
+              "highPriority": "High priority",
+              "priority": "Priority",
+              "selectPriority": "Select priority",
+              "currentStage": "Current stage",
+              "lastStage": "Last stage",
+              "selectCurrentStage": "Select current stage",
+              "selectJobRequisition": "Select job requisition",
+              "pronouns": "Pronouns",
+              "preferredName": "Preferred name",
+              "noResults": "No results",
+              "addJobReq": "Add job requisition",
+              "addRecruiter": "Add recruiter",
+              "reqId": "Req ID",
+              "unlink": "Unlink",
+              "ends": "Ends",
+              "expired": "Expired",
+              "offline": "Offline",
+              "published": "Published",
+              "done": "Done",
+              "saveAndFinish": "Save and finish",
+              "finish": "Finish",
+              "schedule": "Schedule",
+              "reschedule": "Reschedule",
+              "feedback": "Feedback",
+              "updateAvailability": "Update availability",
+              "requestAvailability": "Request availability",
+              "interviewName": "Interview name",
+              "interviewDuration": "Interview duration",
+              "cancelInterviewsQ": "Cancel interviews?",
+              "cancelInterviews": "Cancel interviews",
+              "cancelInterviewSingular": "Cancel interview",
+              "open": "Open",
+              "draft": "Draft",
+              "addOne": "Add one",
+              "bulkUpload": "Bulk upload",
+              "viewJob": "View job",
+              "activeApplications": "Active applications",
+              "pastApplications": "Past applications",
+              "active": "Active",
+              "rejected": "Rejected",
+              "hired": "Hired",
+              "archived": "Archived",
+              "expand": "Expand",
+              "collapse": "Collapse",
+              "expandAll": "Expand all",
+              "collapseAll": "Collapse all",
+              "jobReqs": "Job reqs",
+              "closed": "Closed",
+              "reqName": "Requisition name",
+              "applicationDate": "Application date",
+              "targetReqCloseDate": "Target requisition close date",
+              "targetEmpStartDate": "Target employee start date",
+              "addApplicationReviewers": "Additional application reviewers",
+              "team": "Team",
+              "teams": "Teams",
+              "empType": "Employment type",
+              "empTypes": "Employment types",
+              "jobFamily": "Job family",
+              "totalEquity": "Total equity",
+              "openHeadcount": "Open headcount",
+              "owner": "Owner",
+              "headcountPosition": "Headcount position",
+              "earliestStartDate": "Earliest start date",
+              "jobFamilies": "Job families",
+              "rating": "Rating",
+              "completed": "Completed",
+              "inProgress": "In progress",
+              "canHaveReports": "Can have reports",
+              "position": "Position",
+              "recruitingDetails": "Recruiting details",
+              "hiringTeam": "Hiring team",
+              "hiringTeam1": "HIRING TEAM",
+              "unscheduled": "unscheduled",
+              "sendEmail": "Send email",
+              "selectJobPost": "Select job post",
+              "candidateMoveSuccess": "{{candidateName}} is moved to {{stageName}}",
+              "candidateRejectSuccess": "{{candidateName}} is rejected.",
+              "candidateRejectEmailScheduleSuccess": "Rejection email has been scheduled to send at {{scheduleTime}}.",
+              "candidateRejectEmailSuccess": "Rejection email sent.",
+              "emailSentSuccessMsg": "Email sent successfully.",
+              "confidentialJob": {
+                "title": "This is a confidential job",
+                "tip": {
+                  "title": "Confidential job",
+                  "description": {
+                    "line1": "If checked, this job requisition and its applications can only be seen by:",
+                    "line2": "The members of the hiring team",
+                    "line3": "Users specifically whitelisted",
+                    "line4": "Company super admins",
+                    "line5": "Rippling Recruiting app admins"
+                  }
+                }
+              },
+              "testingJob": {
+                "title": "This is a testing or demo job",
+                "tip": {
+                  "title": "Testing or demo job",
+                  "description": "If checked, flags the job requisition and applications to it as for testing purposes, so they can be filtered out of reports and other contexts."
+                }
+              },
+              "confirmOpenJob": {
+                "title": "Assign a recruiter and hiring manager to open this job requisition.",
+                "okLabel": "Confirm and open",
+                "successMsg": "\"{{jobReqName}}\" is now open."
+              },
+              "scheduleInterviewPlural": "Schedule interview(s)",
+              "date": "Date",
+              "time": "Time",
+              "duration": "Duration",
+              "feedbackForm": "Feedback form",
+              "addInterview": "Add interview",
+              "interviewPlural": "Interview(s)",
+              "logOut": "Log out",
+              "copyLink": "Copy link",
+              "copied": "Copied",
+              "address": "Address",
+              "showMore": "Show more",
+              "reset": "Reset",
+              "cancelled": "Cancelled",
+              "editInterview": "Edit interview",
+              "removeInterview": "Remove interview",
+              "duplicateInterview": "Duplicate interview",
+              "useCustomFormMessage": "Use custom feedback forms to define custom questions and attribute ratings interviewers should respond to. If you don\u2019t select one, interviewers can still put in ratings and notes using the <button1>default feedback form.<button1>",
+              "candidateInterviewAvailability": "{{candidateName}}\u2019s interview availability",
+              "moveApplicationSuccessMsgWithJobReqName": "Successfully moved {{candidateName}} to {{jobReqName}}.",
+              "send": "Send",
+              "skipped": "Skipped",
+              "coverLetter": "Cover letter",
+              "me": "Me",
+              "skip": "Skip",
+              "previous": "Previous",
+              "yourRating": "Your rating",
+              "notSubmitted": "Not submitted",
+              "unableToLoadDoc": "Unable to load document",
+              "retry": "Retry",
+              "confidential": "Confidential",
+              "title": "Title",
+              "select": "Select",
+              "failed": "Failed",
+              "successful": "Successful",
+              "gotIt": "Got it",
+              "tryAgain": "Try again",
+              "createdAt": "Created At",
+              "closedAt": "Closed At",
+              "duplicatedFrom": "Duplicated from",
+              "openDate": "Open Date",
+              "activeApplication": "Active applications",
+              "selectFilter": "Select filter",
+              "isBetween": "Is Between",
+              "between": "Between",
+              "selectToFilter": "Select to filter",
+              "from": "From",
+              "to": "To",
+              "filter": "Filter",
+              "enterValue": "Enter a value",
+              "generateId": "Generate ID",
+              "selectReq": "Select requisition",
+              "reqOverview": "Job requisition overview",
+              "openReqConfirmLabel": "Would you like to open this requisition?",
+              "doLater": "No, I'll do it later",
+              "rename": "Rename",
+              "addHackerRank": "Add HackerRank test",
+              "candidateEmailTemplate": "Candidate email template(s)",
+              "interviewConfirmText": "Interview confirmation",
+              "video": "Video",
+              "onsite": "Onsite",
+              "assessment": "Assessment",
+              "refCheck": "Reference Check",
+              "hackerRankTestLabel": "HackerRank test",
+              "sent": "Sent",
+              "normal": "Normal",
+              "high": "High",
+              "reject": "Reject",
+              "permissionNeeded": "Permission needed",
+              "close": "Close",
+              "notes": "Notes",
+              "notUploaded": "Not uploaded",
+              "job": "Job",
+              "id": "ID",
+              "ok": "OK",
+              "meetingLink": "Meeting link",
+              "passCode": "Passcode",
+              "noMembers": "No members",
+              "requested": "Requested",
+              "offer": "Offer",
+              "allEmployees": "ALL EMPLOYEES",
+              "allEmployees1": "All Employees",
+              "company": "Company",
+              "enabled": "Enabled",
+              "any": "Any",
+              "stronglyDisagree": "Strongly disagree",
+              "disagree": "Disagree",
+              "neutral": "Neutral",
+              "agree": "Agree",
+              "stronglyAgree": "Strongly agree",
+              "strongNo": "Strong No",
+              "strongYes": "Strong Yes",
+              "preferredInterviewers": "PREFERRED INTERVIEWERS",
+              "preferredInterviewers1": "Preferred interviewers",
+              "selectedInterviewers": "SELECTED INTERVIEWERS",
+              "doNotSchedule": "DO NOT SCHEDULE",
+              "interviewers": "Interviewers",
+              "interviewers1": "Interviewer(s)",
+              "dateAndTime": "Date and time",
+              "enterVal1": "Enter value 1",
+              "enterVal2": "Enter value 2",
+              "isEqualTo": "Is equal to",
+              "isNotEqualTo": "Is not equal to",
+              "startsWith": "Starts with",
+              "endsWith": "Ends with",
+              "contains": "Contains",
+              "doesNotContain": "Does not contain",
+              "typeYourPattern": "Type your pattern",
+              "busy": "Busy",
+              "available": "Available",
+              "moveForward": "Move forward",
+              "noWorkLocations": "No work locations",
+              "saveAndContinue": "Save and continue",
+              "companyLogoAltImage": "Company logo",
+              "jobBoard": "Job board",
+              "jobBoardPlural": "jobBoards",
+              "jobBoardConfig": {
+                "jobBoardName": "Job board name",
+                "customOption": "I'll build a custom job board using Rippling's API",
+                "learnMoreLink": "Learn more about job board options",
+                "typeRipplingOption": "I'll use the job board that Rippling creates for me",
+                "configType": "How would you like to build your company's job board?",
+                "createJobBoard": "Create job board"
+              },
+              "careerPageBtn": "Careers Page",
+              "interviewSettings": {
+                "title": "Interviews and interviewers settings",
+                "interviewHourCaption": "This will be used for calculating scheduling recommendations and when requesting interview availability from candidates. Employees' interview hours will be in their local time zones. You can override this for individual interviewers in Rippling Recruiting settings later.",
+                "interviewLimitCaption": "Recruiters, sourcers, coordinators and hiring managers will not have interview limits for their job requisitions. You can also override this for individual interviewers in Rippling Recruiting settings later."
+              },
+              "new": "new",
+              "fullName": "Full name",
+              "emailId": "Email id",
+              "emailSent": "Email sent",
+              "notAssigned": "Not assigned",
+              "notLocations": "No locations",
+              "noLocations": "No locations",
+              "or": "or",
+              "validating": "Validating...",
+              "country": "Country",
+              "state": "State",
+              "city": "City",
+              "remoteLocations": "Remote locations",
+              "selectValidFormat": "Select a valid format",
+              "permissions": {
+                "noPermissionToViewApplication": "You don't have permission to view this application.",
+                "noPermissionToAccessCandidate": "You don't have access to this candidate",
+                "noPermissionToViewTest": "You do not have permission to view tests",
+                "badRequest": "We are currently unable to handle this request.",
+                "permissionDenied": "You do not have permission to view this content.",
+                "notFound": "The requested content was not found."
+              },
+              "jobPostLocationUnsupported": "Currently, only locations in the United States and Canada are supported.",
+              "clearSelection": "Clear selection",
+              "apply": "Apply",
+              "employee": "Employee",
+              "startDate": "Start date",
+              "tags": "Tags",
+              "countries": "Countries",
+              "workLocationsPlural": "Work Locations",
+              "updatedAt": "Updated At",
+              "previewFeedbackTip": "Preview feedback form",
+              "copyFeedbackName": "Copy feedback form name",
+              "today": "today",
+              "of": "of",
+              "per": "per",
+              "default1": "default",
+              "bulkUploadResume": "Bulk upload resumes for exsiting applications",
+              "timesDisplayedInTz": "All times are displayed in {{timezone}}.",
+              "uploadError": "Something went wrong uploading the file"
+            },
+            "component": {
+              "addCandidateForm": {
+                "selectJob": "Select job",
+                "firstName": "First name",
+                "lastName": "Last name",
+                "currentCompany": "Current company",
+                "email": "Email",
+                "invalidEmail": "This is not a valid email",
+                "invalidEmail2": "This is not a valid email.",
+                "optionalInformation": "Optional information",
+                "phoneNumber": "Phone number",
+                "linkedinLink": "LinkedIn link",
+                "invalidLinkedinLink": "This is an invalid URL. A valid URL example: https://linkedin.com",
+                "websiteLink": "Website link",
+                "invalidWebsiteLink": "This is an invalid URL. A valid URL example: https://rippling.com",
+                "enterValidUrl": "Enter a valid url",
+                "resume": "Resume",
+                "coverLetter": "Cover letter",
+                "moreDetails": "More details",
+                "hasExistingApplicationError": "This candidate has already applied to this job",
+                "invalidFileValidation": "Invalid file",
+                "referredBy": "Referred by",
+                "jobSite": "Job site",
+                "employeeCandidate": "Employee Candidate",
+                "appliedAt": "Applied at date",
+                "sourcingCredit": "Sourcing credit",
+                "applicationRecruiter": "Application recruiter",
+                "currentCompanyPlaceholder": "The candidate's current or most-recent employer",
+                "addNewCandidate": "Add a new candidate",
+                "addCandidate": "Add candidate",
+                "addPronounceHelper": "Add pronouns to your application so interviewers know how to refer to you when talking to or about you.",
+                "myPronouns": "My pronouns",
+                "pronounPlaceholder": "e.g. they/them/theirs",
+                "selectRecruiter": "Select recruiter",
+                "jobApplication": "Job application",
+                "jobApplicationOptional": "Job application (optional)"
+              },
+              "careerPage": {
+                "jobBoard": {
+                  "allDepartmentPlaceholder": "All departments",
+                  "allWorkplaceTypesPlaceholder": "All job types",
+                  "allLocationPlaceholder": "All locations",
+                  "allEmploymentTypePlaceholder": "All employment types",
+                  "noJobsTitle": "There are currently no open roles.",
+                  "noJobsCaption": "Come back later!",
+                  "noOpenRolesTitle": "No open roles found",
+                  "noOpenRolesActionTxt": "See all roles",
+                  "filterRoleText": "{{count}} {{workplaceType}} role across",
+                  "filterRoleText_other": "{{count}} {{workplaceType}} roles across",
+                  "filterDeptText": "{{count}} department",
+                  "filterDeptText_zero": "all departments",
+                  "filterDeptText_other": "{{count}} departments",
+                  "and": "and",
+                  "filterLocText": "{{count}} location",
+                  "filterLocText_zero": "all locations",
+                  "filterLocText_other": "{{count}} locations",
+                  "clearAllFilterBtn": "Clear all filters",
+                  "jobBoardBannerAltImage": "Job board banner",
+                  "plusMoreLocations": "+{{count}} more locations",
+                  "workplaceType": {
+                    "HYBRID": "Hybrid",
+                    "REMOTE": "Remote",
+                    "ON_SITE": "Onsite"
+                  },
+                  "workplaceTypeText": {
+                    "HYBRID": "hybrid",
+                    "REMOTE": "remote",
+                    "ON_SITE": "onsite"
+                  },
+                  "jobNotFoundMessage": "This job post is no longer available"
+                }
+              },
+              "customQs": {
+                "renderQuestionnaire": {
+                  "addComment": "Add comment",
+                  "additionOptionalComment": "Additional comment... (optional)"
+                }
+              },
+              "fieldMapper": {
+                "countryCodeRequired": "Country code is required"
+              },
+              "footer": {
+                "termsOfService": "Terms of service",
+                "privacy": "Privacy",
+                "poweredByRippling": "Powered by Rippling",
+                "cookies": "Cookies"
+              },
+              "pronounLabels": {
+                "defaultShe": "She/her/hers",
+                "defaultHe": "He/him/his",
+                "defaultThey": "They/them/theirs",
+                "defaultSheThey": "She/her/hers, they/them/theirs",
+                "defaultHeThey": "He/him/his, they/them/theirs",
+                "name": "Just use my name",
+                "nameDynamic": "Just use {{name}}",
+                "custom": "Enter my pronouns"
+              },
+              "turnstileContainer": {
+                "verificationFailed": "There was an error while verifying you are a human. Please try again.",
+                "helpText": "Visit <anchor1>Cloudflare</anchor1> for tips on how to solve this challenge."
+              },
+              "candidateActions": {
+                "cancelInterview": "Cancel interview"
+              },
+              "videoScreening": {
+                "startInterview": "Start interview",
+                "retake": "Retake",
+                "startRecording": "Start recording",
+                "stopRecording": "Stop recording",
+                "submitAndContinue": "Submit and continue",
+                "unknownDevice": "Unknown Device",
+                "permissionDenied": "Permission denied. Please reset permissions and enable camera and microphone.",
+                "allowMicrophoneAndCamera": "Allow microphone and camera",
+                "microphoneAndCameraTest": "Microphone and camera test",
+                "browserNotSupported": "Your browser does not support video recording. Please try a different browser.",
+                "videoUploadFailed": "Failed to upload video responses. Please check your connection and try again.",
+                "questionProgress": "Question {{current}} of {{total}}",
+                "rerecord": "Re-record",
+                "record": "Record",
+                "stop": "Stop",
+                "questionNumber": "Question {{number}}",
+                "recordingTime": "Recording time",
+                "slowConnectionWarning": "Slow connection detected",
+                "slowConnectionMessage": "Your connection is slow. Video uploads may fail. We recommend switching to a stronger Internet connection."
+              }
+            },
+            "page": {
+              "applyJob": {
+                "title": "Apply for job post",
+                "exitBtn": "Exit to job board",
+                "confirmation": "Confirmation"
+              },
+              "documents": {
+                "title": "Upload Documents",
+                "documentsAddedSuccessfully": "Documents added successfully",
+                "addAnotherOne": "Add another one",
+                "youMustIncludeEitherUrlOrFile": "You must include either URL or a file for your document.",
+                "youMustIncludeEitherUrlOrFileNotBoth": "You must include either URL or a file for your document, but not both.",
+                "linkIsExpired": "Link is expired.",
+                "linkIsExpiredOrAtCapacity": "Link is expired or at capacity",
+                "contactYourRecruiterToRenewLink": "If you wish to upload more documents, contact your recruiter to renew this link.",
+                "greeting": "Hi {{name}}, please add your documents here.",
+                "youCanUploadAnotherFileLater": "You can upload another file later.",
+                "step1": "Step 1: Enter the document name",
+                "fileName": "File name",
+                "step2": "Step 2: Upload the document or add the file link",
+                "uploadFile": "Upload file",
+                "url": "URL",
+                "Url": "URL",
+                "or": "or",
+                "uppercaseOr": "OR",
+                "addDocumentLink": "Add document link",
+                "isUrlValidationMessage": "Please type a valid URL that starts with http:// or https:// or leave it blank",
+                "uploadDocuments": "Upload Documents",
+                "confirmed": "Confirmed!",
+                "confimed": "Confirmed!",
+                "seeUploadedDocuments": "See uploaded documents",
+                "uploadedDocuments": "Uploaded documents",
+                "uploadYourFirstDocument": "Upload your first document",
+                "uploadAnotherDocument": "Upload another document",
+                "yourDocuments": "Your Documents",
+                "maxDocumentsMsg": "You have uploaded the maximum number of allowed documents. If you wish to upload more, please contact your recruiter to renew this link.",
+                "remainingDocumentsMsg": "You can upload up to {{num}} more documents."
+              },
+              "videoAssessment": {
+                "title": "Video Assessment",
+                "linkExpired": "Link expired",
+                "contactYourRecruiterToRenewLink": "If you wish to complete this assessment, contact your recruiter to renew this link.",
+                "thankYouMessage": "Thank you for your submission!",
+                "welcome": "Welcome to your video questionnaire",
+                "welcomeVideoInterview": "Welcome to your video interview",
+                "inviteIntro": "{{companyName}} has invited you to complete a one-way video interview.",
+                "howThisWorksBullets": "<ul><li>Once you begin, you\u2019ll see a series of questions appear on your screen.</li><li>You\u2019ll record your responses one at a time using your camera and microphone.</li><li>You can pause between questions to gather your thoughts before starting the next recording.</li><li>If you\u2019d like to try again, you can retake your recording for a question before moving on.</li></ul>",
+                "beforeYouBeginRecommendation": "We recommend finding a quiet, well-lit space and testing your camera and microphone before you begin. When you\u2019re ready, click \u201cStart interview\u201d to begin.",
+                "interviewOverview": "Interview Overview",
+                "questionsCount_one": "{{count}} question",
+                "questionsCount_other": "{{count}} questions",
+                "uploadError": "Something went wrong submitting your video responses. Please try again.",
+                "questions": "Questions",
+                "responseTimePerQuestion": "Response time per question",
+                "minutes_one": "{{count}} minute",
+                "minutes_other": "{{count}} minutes",
+                "minutesRange": "{{min}}-{{max}} minutes",
+                "howThisWorks": "<h>How this works</h><ul><li>Once you begin, you\u2019ll see a series of questions appear on your screen.</li><li>You\u2019ll record your responses one at a time using your camera and microphone.</li><li>You can pause between questions to gather your thoughts before starting the next recording.</li><li>If you\u2019d like to try again, you can retake your recording for a question before moving on.</li></ul>",
+                "tips": "<h>Tips</h><ul><li><b>Check your setup.</b> Test your camera, microphone, and internet connection before recording to avoid technical issues.</li><li><b>Find good lighting.</b> Face a light source so your face is clearly visible. Avoid backlighting or dark rooms.</li><li><b>Be concise and confident.</b> Read each question carefully, take a breath, and answer clearly within the time limit.</li></ul>"
+              },
+              "confirmation": {
+                "cancel": {
+                  "title": "Your interview has been canceled",
+                  "reasonLabel": "Reason for cancelation"
+                }
+              },
+              "internalError": {
+                "title": "500 | Internal Error",
+                "action": {
+                  "title": "A problem occurred loading the page",
+                  "caption": "We've let our engineers know. You can try refreshing the page to fix intermittent issues.",
+                  "btn": "Refresh the page"
+                }
+              },
+              "jobApplication": {
+                "basicQuestions": {
+                  "resumeParsing": "The r\u00e9sum\u00e9 will be parsed to fill in the application details",
+                  "invalidEmail": "This is not a valid email.",
+                  "invalidUrl": "This is an invalid URL."
+                },
+                "title": "Apply - {{jobPostName}}",
+                "successfullyApplied": "You have successfully applied to {{jobPostName}}",
+                "unableToApply": "Unable to apply for {{jobPostName}}. Please try again later.",
+                "unableToApplyWithMoreDetail": "Unable to apply for {{jobPostName}}: {{moreDetail}}",
+                "seeAllOpenings": "See all openings",
+                "termsAndConditions": "By clicking \"Apply\" you agree to Rippling's <anchor1>Terms of Service</anchor1> and <anchor2>User Privacy Notice<anchor2>.",
+                "aiNotice": "{{companyName}} uses AI to analyze applications. To learn more or opt out <anchor1>click here</anchor1>.",
+                "aiNoticeModal": {
+                  "title": "{{companyName}} uses AI to analyze applications",
+                  "description": "{{companyName}} uses AI technology to review, analyze, and summarize applications. Please note that all final hiring decisions are made by the hiring team \u2014 not by AI. If you do not wish for your application to be analyzed using Al, you can opt out by unchecking the box below and selecting \"Save\".",
+                  "checkbox": "I agree to AI-powered application analysis"
+                },
+                "parseResumeLoadingTitle": "Parsing the r\u00e9sum\u00e9. This might take a few seconds.",
+                "parseResumeSuccessTitle": "R\u00e9sum\u00e9 parsing was successful.",
+                "smsOptInDescription": "Check <bold>Yes</bold> or <bold>No</bold> to indicate your agreement to receive text message updates from {{companyName}} regarding your job application. Frequency may vary. Message and data rates may apply. Reply HELP for assistance. Reply STOP to opt out of future messaging.",
+                "smsOptInPrivacyPolicy": "View our privacy policy here: <anchor1>Privacy Policy</anchor1>",
+                "smsOptInYes": "Yes - I consent to receiving text messages",
+                "smsOptInNo": "No - I do not consent to receiving text messages"
+              },
+              "jobPost": {
+                "applyNow": "Apply now",
+                "allOpeningsAt": "All openings at {{companyName}}",
+                "payRangeForThisRole": "The pay range for this role is:",
+                "numberRange": "{{rangeStart}} - {{rangeEnd}} {{currency}} per {{frequency}} ({{location}})",
+                "shareOn": "Share on:",
+                "shareOnFacebook": "Share on Facebook",
+                "shareOnX": "Share on Twitter/X",
+                "shareOnLinkedIn": "Share on LinkedIn",
+                "internalJobPost": "Internal job post",
+                "allJobs": "All jobs",
+                "applyPageTitle": "Application: {{jobPostName}}"
+              },
+              "pageNotFound": {
+                "title": "404 | Page Not Found",
+                "action": {
+                  "title": "The page you're looking for doesn't exist",
+                  "caption": "The link you followed may be broken or the listing may have been removed."
+                }
+              },
+              "twilioA2PReview": {
+                "title": "A2P 10DLC Review - {{companyName}}"
+              },
+              "requestAvailability": {
+                "pageTitles": {
+                  "interviewAvailability": "Interview Availability",
+                  "selectAvailableDay": "Select available days",
+                  "selectAvailableTime": "Select available time",
+                  "addOptionalNote": "Add optional note",
+                  "thankYou": "Thanks for sharing your availability!"
+                },
+                "additionalNotes": {
+                  "title": "Add an optional note to the recruiter:",
+                  "titleV2": "Add an optional note to the recruiter",
+                  "inputTitle": "Note",
+                  "inputPlaceholder": "Add an optional note",
+                  "titleForConfirmation": "Note to recruiter"
+                },
+                "confirmation": {
+                  "title": "Thanks for sharing your availability!",
+                  "description": "You will get a confirmation once your meeting is scheduled.",
+                  "updateAvailability": "Update my availability",
+                  "timesDisplayedInTz": "All times are displayed in {{timezone}}"
+                },
+                "confirmationSelfScheduled": {
+                  "title": "Your interview is scheduled!",
+                  "titleReschedule": "Your interview has been rescheduled!",
+                  "description": "You will receive an email confirmation with a calendar invite.",
+                  "reasonLabel": "Reason for rescheduling"
+                },
+                "dayTimeSelector": {
+                  "title1": "Hi {{candidateName}}, please pick a few days that work best for you:",
+                  "title2": "Now please pick a few time slots that you are free:",
+                  "selectADay": "Select a date to view time slots",
+                  "selectATime": "Select an interview time",
+                  "selectManyTimes": "Select a few times",
+                  "refreshToViewLatest": {
+                    "title": "Refresh to view the latest schedule options",
+                    "button": "Refresh options"
+                  },
+                  "viewTimesIn": "View times in",
+                  "minDaysPrompt": "Please pick at least {{minDays}} different days.",
+                  "minDaysAlert": "You need to select at least {{minDays}} different dates.",
+                  "minSlotsPrompt": "Please pick at least {{minSlots}} timeslots.",
+                  "minSlotsAlert": "You need to select at least {{minSlots}} different slots.",
+                  "minSlotsOverDaysAlert": "You need to select your timeslots across at least {{minDays}} different days."
+                },
+                "submitErrors": {
+                  "general": "An error occurred while submitting your availability. Please try again.",
+                  "noMoreOptions": {
+                    "title": "The time you selected is no longer available",
+                    "content": "Provide your availability to continue",
+                    "okLabel": "Provide my availability"
+                  },
+                  "selectedOptionExpired": {
+                    "title": "The time you selected is no longer available",
+                    "content": "Choose another option to continue",
+                    "okLabel": "Choose another option"
+                  }
+                },
+                "linkError": {
+                  "expired": "Oops. The link has expired.",
+                  "invalid": "Oops. The link is no longer valid."
+                },
+                "windowExhausted": {
+                  "title": "No available times remain",
+                  "body": "All dates in this availability window have passed. Please contact your recruiter to request a new window."
+                },
+                "noneWorkButtonLabel": "None of these work for me",
+                "noneOfTheseWork": "None of these slots work?",
+                "noSlotsAvailable": "No slots available for this date",
+                "suggestTimeLabel": "Suggest time",
+                "selfSchedule": {
+                  "title": "Select date and time to schedule",
+                  "titleWithName": "Hi {{candidateName}}, please select a date and time to schedule",
+                  "caption": "We will match you with real times for your interview."
+                },
+                "selfReschedule": {
+                  "title": "Select date and time to reschedule",
+                  "reasonLabel": "Reason for rescheduling",
+                  "selectReason": "Select a reason...",
+                  "schedulingConflict": "Scheduling conflict",
+                  "needToPrepareFurther": "Need to prepare further",
+                  "notFeelingWell": "Not feeling well",
+                  "other": "Other"
+                },
+                "provideAvailability": {
+                  "title": "Share your availability"
+                },
+                "submitButtons": {
+                  "submitSchedule": "Submit schedule",
+                  "submitAvailability": "Submit availability"
+                },
+                "selectDisplayLanguageLabel": "Display language",
+                "cancelInterviewModal": {
+                  "description": "You can use the same scheduling link to reschedule the interview until the link expires.",
+                  "acceptedAnotherOffer": "Accepted another offer",
+                  "notTheRightFitCompensationBenefits": "Not the right fit - compensation / benefits",
+                  "notTheRightFitCulture": "Not the right fit - culture",
+                  "decidedToStayAtCurrentRole": "Decided to stay at their current role",
+                  "timingIsNotRight": "Timing is not right",
+                  "other": "Other",
+                  "additionalDetails": "Additional details...",
+                  "selectReason": "Select a reason...",
+                  "reasonLabel": "Reason for cancelation",
+                  "additionalDetailsLabel": "Specify your reason"
+                }
+              }
+            }
+          }
+        },
+        "one-ui": {}
+      }
+    },
+    "initialLocale": "en-US",
+    "ns": [
+      "atsFe",
+      "one-ui"
+    ],
+    "userConfig": {
+      "i18n": {
+        "defaultLocale": "en-US",
+        "locales": [
+          "de-DE",
+          "en-AU",
+          "en-CA",
+          "en-US",
+          "en-GB",
+          "es-419",
+          "es-ES",
+          "fr-CA",
+          "fr-FR",
+          "nl-NL",
+          "pl-PL",
+          "pt-BR",
+          "pt-PT"
+        ]
+      },
+      "localePath": "/app/translations/locales",
+      "defaultNS": "atsFe"
+    }
+  },
+  "apiData": {
+    "jobBoard": {
+      "boardType": "RIPPLING",
+      "slug": "sparq",
+      "logo": {
+        "name": "Sparq-Logo-Orange.png",
+        "url": "https://prod-images.rippling.com/967dcfedef837f167b93f8dcdbe81733a17c6330.png?Expires=1788288217&Signature=hnzsAVsNAv0osY5pGsuo2IJ7VULt9-HOJhSXqXqPCoEE5sEEZ1xF9zoW95hzOEeVvN5NjcZAVb~Awm861Kw~Jo5jZ8h8Fi7zNH76I0CwzDtudFlyfElEY6lCIl3zJeBJP1r~NZIKy8~wXnK64KD9CfcExZqFnQHGFVczkFGo3cAbLawILI3xn9V-ZlOiyhiaSPbVk20NDAeiHkcyg0He3yPMCP5ECOiS74poZRT0~Z~zaFWBrLbzOBLiVyMfXkSPYwlybSJap15aRJzLKuYj4qLgvN~tplJoityNkdFN89b9E9l63h~3o7o7r~xGZGnSfm2iGClnZyfl7~Mtmwkyww__&Key-Pair-Id=K2Y26R2ZPP26PH",
+        "type": "image/png"
+      },
+      "banner": {
+        "name": "",
+        "url": null,
+        "type": ""
+      },
+      "title": "Sparq Opportunities",
+      "subtitle": "Team Sparq is committed to creating high-quality tech careers while helping clients accelerate their digital transformation journey. ",
+      "boardURL": "https://ats.rippling.com/sparq/jobs",
+      "fontType": null,
+      "linkColor": "#392e27",
+      "buttonColor": "#e75437",
+      "buttonTextColor": "#ffffff",
+      "legalNotice": "<meta name=\"rteConfig\" content=\"{&quot;version&quot;:&quot;0.268.0&quot;,&quot;producedBy&quot;:&quot;rte&quot;}\"><p dir=\"ltr\" style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;margin:0px;line-height:1.38;padding:0px;\"><span style=\"white-space:pre-wrap;\">Equal Employment Opportunity Policy: Sparq is proud to offer equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.</span></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;margin:0px;line-height:1.38;padding:0px;\"><br></p>",
+      "noOpeningsMessage": null,
+      "groupJobsByLocation": true,
+      "showBoardLogoOnJobPost": true,
+      "showCompanyInfoUnderJobPost": false,
+      "companyName": "Sparq Holdings, Inc."
+    },
+    "jobPost": {
+      "uuid": "d07da5fd-500d-4b54-b8cb-a0dd4df7c952",
+      "name": ".NET Principal Architect",
+      "description": {
+        "company": "<meta><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:10.25pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><span style=\"font-size:14pt;white-space:pre-wrap;\">At Sparq, we help companies solve the right problems\u2014not just build more technology.</span></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:14pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><br></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:14pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><span style=\"font-size:14pt;white-space:pre-wrap;\">We\u2019re a modern product engineering partner blending strategy, craftsmanship, and speed to help organizations modernize confidently in the age of AI. From data ecosystems to digital products and AI acceleration, we turn complexity into clarity and ideas into impact.</span></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:14pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><br></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:14pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><span style=\"font-size:14pt;white-space:pre-wrap;\">If you\u2019re driven to build what\u2019s next, lead with empathy, and deliver excellence without ego, you\u2019ll feel right at home at Sparq.</span></p>",
+        "role": "<meta><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:15pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><b><strong style=\"font-size:15pt;white-space:pre-wrap;\">Why you will enjoy Mondays again:</strong></b></p><ul data-pattern=\"discCircleSquare\" data-depth=\"1\" style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;margin:8px 0px;line-height:1.6;padding:0px 0px 0px 32px;list-style-type:disc;\"><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Opportunity to collaborate with a diverse group of colleagues in a fun, creative environment</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Progressive career journey and opportunity for advancement</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Continuous development through training, mentorship and certification programs</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Exposure to modern technologies across various industries in an agile environment</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Remote work</span></li></ul><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11.25pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><b><strong style=\"font-size:15pt;white-space:pre-wrap;\">A Day in the Life:</strong></b></p><ul data-pattern=\"discCircleSquare\" data-depth=\"1\" style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;margin:8px 0px;line-height:1.6;padding:0px 0px 0px 32px;list-style-type:disc;\"><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Assess legacy .NET applications to determine the most effective modernization and migration strategy</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Lead architecture decisions for migrating web applications, APIs, services, and databases to Microsoft Azure</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Guide refactoring efforts to make applications cloud-ready, including transitioning monoliths into modern architectures</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Define and document repeatable migration patterns for use across the Cloud Enablement Team</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Partner with senior engineers to move applications from legacy environments into production in Azure</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Advise teams on database modernization, performance tuning, and SQL Server best practices</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Establish guardrails and best practices for secure, scalable, and maintainable Azure deployments</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Translate complex cloud architecture concepts into practical guidance for application teams</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Support modernization initiatives such as SOAP to REST transitions and Windows Services to containerized workloads</span></li><li style=\"font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"white-space:pre-wrap;\">Provide technical leadership across multiple development teams during migration and modernization efforts</span></li></ul><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11.25pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><b><strong style=\"font-size:15pt;white-space:pre-wrap;\">What it takes:</strong></b></p><ul data-pattern=\"discCircleSquare\" data-depth=\"1\" style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;margin:8px 0px;line-height:1.6;padding:0px 0px 0px 32px;list-style-type:disc;\"><li style=\"font-size:10pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Deep understanding of .NET application architecture including ASP.NET, .NET Framework, and .NET Core</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Strong experience with web applications, REST APIs, SOAP services, and Windows Services</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Proven experience assessing and refactoring legacy enterprise applications</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Strong SQL Server and database design expertise</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Experience modernizing monolithic applications into cloud-ready architectures</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Hands-on understanding of Microsoft Azure fundamentals including Resource Groups, networking, identity, RBAC, and security</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Experience migrating applications from on-premises environments to Azure using App Services, containers, and Azure SQL or Managed Instance</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Understanding of messaging modernization such as MSMQ to Azure Service Bus</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Familiarity with CI/CD practices using Azure DevOps or GitHub Enterprise</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Working knowledge of Infrastructure as Code tools such as Bicep, ARM, or Terraform</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Experience guiding modernization efforts such as SOAP to REST transitions and containerization strategies</span></li><li style=\"color:rgb(0,0,0);font-size:11pt;--listitem-marker-color:#000000;margin:3px 0px;letter-spacing:0.25px;line-height:1.6;\"><span style=\"color:rgb(0,0,0);font-size:11pt;white-space:pre-wrap;\">Nice to have: Azure Data Factory, Azure Service Bus, AKS, Docker, GitHub Enterprise PR workflows, and AI-assisted development practices</span></li></ul><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><span style=\"font-size:12pt;white-space:pre-wrap;\">Regardless of your specific role, we seek individuals who are excited to explore, adopt, and evangelize AI tools and methodologies. If you have experience in AI or a proven track record of rapidly learning and mentoring others on emerging tech, you\u2019ll fit right in.</span></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:12pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><br></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:12pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><i><em style=\"color:rgb(0,0,0);font-size:12pt;white-space:pre-wrap;\">Equal Employment Opportunity Policy: Sparq is proud to offer equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.</em></i></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:12pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><br></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:12pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><i><em style=\"color:rgb(0,0,0);font-size:12pt;white-space:pre-wrap;\">We are committed to providing equal employment opportunities and believe in an inclusive workplace. If you require reasonable accommodations to participate in the job application or interview process, please let us know by contacting recruiting@teamsparq.com</em></i></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:12pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><br></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:12pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><br></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:12pt;font-weight:400;line-height:1.6;letter-spacing:0.25px;margin:4px 0px;padding:0px;\"><span style=\"white-space:pre-wrap;\">#LI-REMOTE</span></p>"
+      },
+      "workLocations": [
+        "Uruguay",
+        "Mexico",
+        "Chile",
+        "Costa Rica",
+        "Colombia"
+      ],
+      "department": {
+        "name": "Client Services",
+        "base_department": "Client Services",
+        "department_tree": [
+          "Client Services"
+        ]
+      },
+      "employmentType": {
+        "label": "SALARIED_FT",
+        "id": "Salaried, full-time"
+      },
+      "createdOn": "2026-02-12T08:07:51.339000-08:00",
+      "activeJobApplication": {
+        "additionalQuestions": [
+          {
+            "form": {
+              "questions": [
+                {
+                  "uniqueKey": "80aeb094-8de5-4f5b-975d-2a5dfaae7843",
+                  "title": "Are you located in Mexico, Uruguay, Colombia, Chile, or Costa Rica?",
+                  "description": "",
+                  "tags": [],
+                  "dataType": "select",
+                  "questionType": "KNOCKOUT",
+                  "isRequired": true,
+                  "allowComments": false,
+                  "canEdit": false,
+                  "isPrivate": false,
+                  "strChoices": [
+                    "Yes",
+                    "No"
+                  ],
+                  "intChoices": [],
+                  "isMultiSelectEnabled": true,
+                  "isOtherEnabled": false
+                }
+              ],
+              "deletedQuestions": [],
+              "sections": [],
+              "deletedSections": [],
+              "skipLogic": []
+            },
+            "name": "LATAM Countries (ALL)",
+            "id": "69bb00257f10b90d064314e9"
+          }
+        ],
+        "basicQuestions": [
+          {
+            "oid": "first_name",
+            "fieldType": "SHORT_ANSWER",
+            "title": "First name",
+            "required": true
+          },
+          {
+            "oid": "last_name",
+            "fieldType": "SHORT_ANSWER",
+            "title": "Last name",
+            "required": true
+          },
+          {
+            "oid": "email",
+            "fieldType": "SHORT_ANSWER",
+            "title": "Email",
+            "required": true
+          },
+          {
+            "oid": "pronouns",
+            "fieldType": "PRONOUN",
+            "title": "Pronouns",
+            "required": false
+          },
+          {
+            "oid": "current_company",
+            "fieldType": "SHORT_ANSWER",
+            "title": "Current company",
+            "required": false
+          },
+          {
+            "oid": "phone_number",
+            "fieldType": "PHONE_NUMBER",
+            "title": "Phone number",
+            "required": true
+          },
+          {
+            "oid": "location",
+            "fieldType": "SHORT_ANSWER",
+            "title": "Location (city only)",
+            "required": true
+          },
+          {
+            "oid": "resume",
+            "fieldType": "FILE",
+            "title": "Resume",
+            "required": true
+          },
+          {
+            "oid": "cover_letter",
+            "fieldType": "FILE",
+            "title": "Cover letter",
+            "required": false
+          }
+        ]
+      },
+      "eeocQuestionnaireEnabled": false,
+      "eeocQuestionnaireEnabledForJobPost": false,
+      "url": "https://ats.rippling.com/sparq/jobs/d07da5fd-500d-4b54-b8cb-a0dd4df7c952",
+      "board": {
+        "boardType": "RIPPLING",
+        "slug": "sparq",
+        "logo": {
+          "name": "Sparq-Logo-Orange.png",
+          "url": "https://prod-images.rippling.com/967dcfedef837f167b93f8dcdbe81733a17c6330.png?Expires=1788288217&Signature=hnzsAVsNAv0osY5pGsuo2IJ7VULt9-HOJhSXqXqPCoEE5sEEZ1xF9zoW95hzOEeVvN5NjcZAVb~Awm861Kw~Jo5jZ8h8Fi7zNH76I0CwzDtudFlyfElEY6lCIl3zJeBJP1r~NZIKy8~wXnK64KD9CfcExZqFnQHGFVczkFGo3cAbLawILI3xn9V-ZlOiyhiaSPbVk20NDAeiHkcyg0He3yPMCP5ECOiS74poZRT0~Z~zaFWBrLbzOBLiVyMfXkSPYwlybSJap15aRJzLKuYj4qLgvN~tplJoityNkdFN89b9E9l63h~3o7o7r~xGZGnSfm2iGClnZyfl7~Mtmwkyww__&Key-Pair-Id=K2Y26R2ZPP26PH",
+          "type": "image/png"
+        },
+        "banner": {
+          "name": "",
+          "url": null,
+          "type": ""
+        },
+        "title": "Sparq Opportunities",
+        "subtitle": "Team Sparq is committed to creating high-quality tech careers while helping clients accelerate their digital transformation journey. ",
+        "boardURL": "https://ats.rippling.com/sparq/jobs",
+        "fontType": null,
+        "linkColor": "#392e27",
+        "buttonColor": "#e75437",
+        "buttonTextColor": "#ffffff",
+        "legalNotice": "<meta name=\"rteConfig\" content=\"{&quot;version&quot;:&quot;0.268.0&quot;,&quot;producedBy&quot;:&quot;rte&quot;}\"><p dir=\"ltr\" style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;margin:0px;line-height:1.38;padding:0px;\"><span style=\"white-space:pre-wrap;\">Equal Employment Opportunity Policy: Sparq is proud to offer equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.</span></p><p style=\"font-family:&quot;Basel Grotesk&quot;,Arial,sans-serif;font-size:11pt;font-weight:400;margin:0px;line-height:1.38;padding:0px;\"><br></p>",
+        "noOpeningsMessage": null,
+        "groupJobsByLocation": true,
+        "showBoardLogoOnJobPost": true,
+        "showCompanyInfoUnderJobPost": false,
+        "companyName": "Sparq Holdings, Inc."
+      },
+      "payRangeDetails": [],
+      "applicationConfirmationTemplate": "672a64eeb8e52d0fc5887028",
+      "hasAIEvaluationsEnabled": true,
+      "companyName": "Sparq Holdings, Inc.",
+      "unlistedFromSearch": false,
+      "jsonLd": null
+    },
+    "workLocations": [
+      "Uruguay",
+      "Mexico",
+      "Chile",
+      "Costa Rica",
+      "Colombia"
+    ],
+    "department": {
+      "name": "Client Services",
+      "base_department": "Client Services",
+      "department_tree": [
+        "Client Services"
+      ]
+    },
+    "payRangeDetails": []
+  }
+}

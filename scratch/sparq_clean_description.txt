@@ -1,0 +1,40 @@
+=== COMPANY ===
+At Sparq, we help companies solve the right problems—not just build more technology.
+We’re a modern product engineering partner blending strategy, craftsmanship, and speed to help organizations modernize confidently in the age of AI. From data ecosystems to digital products and AI acceleration, we turn complexity into clarity and ideas into impact.
+If you’re driven to build what’s next, lead with empathy, and deliver excellence without ego, you’ll feel right at home at Sparq.
+
+=== ROLE & REQUIREMENTS ===
+Why you will enjoy Mondays again:
+Opportunity to collaborate with a diverse group of colleagues in a fun, creative environment
+Progressive career journey and opportunity for advancement
+Continuous development through training, mentorship and certification programs
+Exposure to modern technologies across various industries in an agile environment
+Remote work
+A Day in the Life:
+Assess legacy .NET applications to determine the most effective modernization and migration strategy
+Lead architecture decisions for migrating web applications, APIs, services, and databases to Microsoft Azure
+Guide refactoring efforts to make applications cloud-ready, including transitioning monoliths into modern architectures
+Define and document repeatable migration patterns for use across the Cloud Enablement Team
+Partner with senior engineers to move applications from legacy environments into production in Azure
+Advise teams on database modernization, performance tuning, and SQL Server best practices
+Establish guardrails and best practices for secure, scalable, and maintainable Azure deployments
+Translate complex cloud architecture concepts into practical guidance for application teams
+Support modernization initiatives such as SOAP to REST transitions and Windows Services to containerized workloads
+Provide technical leadership across multiple development teams during migration and modernization efforts
+What it takes:
+Deep understanding of .NET application architecture including ASP.NET, .NET Framework, and .NET Core
+Strong experience with web applications, REST APIs, SOAP services, and Windows Services
+Proven experience assessing and refactoring legacy enterprise applications
+Strong SQL Server and database design expertise
+Experience modernizing monolithic applications into cloud-ready architectures
+Hands-on understanding of Microsoft Azure fundamentals including Resource Groups, networking, identity, RBAC, and security
+Experience migrating applications from on-premises environments to Azure using App Services, containers, and Azure SQL or Managed Instance
+Understanding of messaging modernization such as MSMQ to Azure Service Bus
+Familiarity with CI/CD practices using Azure DevOps or GitHub Enterprise
+Working knowledge of Infrastructure as Code tools such as Bicep, ARM, or Terraform
+Experience guiding modernization efforts such as SOAP to REST transitions and containerization strategies
+Nice to have: Azure Data Factory, Azure Service Bus, AKS, Docker, GitHub Enterprise PR workflows, and AI-assisted development practices
+Regardless of your specific role, we seek individuals who are excited to explore, adopt, and evangelize AI tools and methodologies. If you have experience in AI or a proven track record of rapidly learning and mentoring others on emerging tech, you’ll fit right in.
+Equal Employment Opportunity Policy: Sparq is proud to offer equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
+We are committed to providing equal employment opportunities and believe in an inclusive workplace. If you require reasonable accommodations to participate in the job application or interview process, please let us know by contacting recruiting@teamsparq.com
+#LI-REMOTE

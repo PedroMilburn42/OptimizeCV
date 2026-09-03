@@ -1,0 +1,344 @@
+--- Page 1 ---
+   
+Contact
+0059892806401 (Mobile)
+pierre.milburn@hotmail.com
+www.linkedin.com/in/pedro-
+milburn-a0700417 (LinkedIn)
+Top Skills
+Google Cloud Platform (GCP)
+Gestión de flujos de trabajo
+Python (Programming Language)
+Certifications
+Generative AI for Web Developers:
+AI-Powered Pair Programming for
+Full-Stack Development
+Microsoft Certified: Power Platform
+Fundamentals
+Microsoft Certified: Power Platform
+App Maker Associate
+Bases de datos SQL en Microsoft
+Fabric
+ETL and ELT in PostgreSQL
+Patents
+Method for optimising the placement
+of at least two pieces of information.
+The patent has been registered in
+Sweden, Europe and USA.
+Pedro Milburn
+Lead Software Engineer, .NET, AI, C#, Python
+Montevideo, Montevideo, Uruguay
+Summary
+In shortI am seeking a Software Development or Technical People
+Leadership role closely connected to the technical side of the
+organization. After 25 years in the software industry, building new
+products and features and solving complex technical challenges,
+I enjoy combining people leadership and mentoring with hands-
+on involvement in technical solutions.I am particularly interested in
+organizations with well-established processes, strong engineering
+practices, an inclusive culture, and a collaborative team environment,
+where people feel empowered to contribute and make an impact.
+I thrive in multicultural, global environments where English is
+the primary working language, ideally within the US/LATAM
+time zones.Technical ExpertiseI have extensive experience with
+C#, .NET, Python, Microsoft Power Platform, GCP, and Azure. More
+recently, I have been working with AI agents, Microsoft Copilot, and
+AI-driven software development lifecycle (SDLC) practices.I am a
+Microsoft-certified developer and Power Platform specialist, with
+a strong focus on delivering reliable, maintainable, and scalable
+solutions through automation, engineering best practices, and
+continuous improvement.Throughout my career, I have worked
+on complex projects from design through delivery. I was also a
+contributor to a patent at Admeta in the online marketing industry,
+with technology that was used by major companies including Google,
+Amazon, and Microsoft.Leadership &amp; CollaborationI am a
+highly collaborative and people-oriented professional who enjoys
+teamwork, mentoring, problem solving, and delivering complex
+projects. I particularly enjoy helping people grow, creating an
+environment where teams can perform at their best, and empowering
+individuals to take ownership and contribute their strengths.I value
+a hybrid working model, as it provides a good balance between
+collaborating and building relationships with colleagues in the office
+while also allowing time to focus and spend time with family and
+nature.Having lived approximately half of my life in Europe and
+Uruguay, I bring a multicultural perspective and am comfortable
+working across different cultures, locations, and time zones.
+  Page 1 of 9
+--- Page 2 ---
+   
+Experience
+Aven Hospitality
+Lead Software Engineer
+January 2026 - July 2026 (7 months)
+Montevideo, Uruguay
+My role involve develop new features in .NET for the hotel Industry. Upgraded
+core systems from .Net framework to the .newest .Net,. Migrated services and
+libraries from on premise to Google Cloud GCP.  Design new components
+for the a long term strategy. Problem solving in production in GCP machines
+and redeployment. Working daily with QA to get unit tests, automation tests
+and performance. Solve issues regarding devops, updating libraries, changing
+jobs configurations in Jenkins and writing scripts. Owner of VeraCode and
+SonarCube code fixes with the team. Investigate and create context and
+orchestration for new solutions powered by AI.
+Currently, I serve as the technical lead for a team of eight, consisting of both
+QA engineers and developers.
+Environment: GCP, virtual machines, PubSub,  CodeNova, Copilot, Gemini,
+Visual Studio and Visual Studio Code, Oracle, nHibernate, Jenkins, Rally,
+SailPoint, Swagger, Splunk, Graphana, Veracode, SonarCube, Cloud Run,
+Terraform, C#, Power Shell Scripts, ApiGee, performance, automation testing
+and SynXis Booking Engine.
+Sabre Corporation
+Manager and Development Team Lead
+October 2023 - February 2026 (2 years 5 months)
+Montevideo, Uruguay
+My role involves a mixture of people management and software development
+for Sabre Hosteling Services.
+Worked as manager of a team of 8 developers and in a daily basis I meet with
+other managers in the organization to schedule releases, troubleshoot the
+product, directing innovation and new technologies to develop the smartest
+solutions for the travel industry. 1 to 1 meetings, set developer grow plan,
+communicate new stategies to align the team to new goals, empowered team
+capacity, give feedback and be act as a facilitator for blockers. At some point
+some scrum master covering was done and solving unclear requirements of
+  Page 2 of 9
+--- Page 3 ---
+   
+tasks and defects. Assignment of user stories and defects to the ideal person
+and performance evaluation and assign performance bonuses.
+Rest/Soap services and development of the Sabre platform and the core
+business logic with the latest technology. I Improve development processes
+and take care of trainings, velocity improvements, and managing a software
+development team with Sr .NET developers. Besides, I solve complex
+technical issues and assign tasks to developers. Create long term plans and
+get in the depth of performance and quality topics. Promote innovation and
+mentoring developers in highly motivated teams. 
+Environment:  Azure Services with VMs, App Services, Kubernetes Services,
+Azure Service, Azure Functions and Azure Logic Apps deployed with Azure
+DevOps.
+Globant
+Power Platform Architect and .NET Developer
+September 2018 - September 2023 (5 years 1 month)
+Montevideo
+Matter expert and architect in the Microsoft Power Platform. SharePoint
+and .NET expert and assistant in software development in several projects for
+a big company in USA and UK. This work involves creating new development
+environments, technical architecture of new solutions and deployment of
+new solutions in both .NET and SharePoint. To update my knowledge, I have
+recently earned the Microsoft certification in Power Platform fundamentals.
+Added to this, working as Azure Devop Services ande Cloud Services.
+I have worked in .NET developing a plugin with AI, Visual Studio Code and C#
+and cutting edge technologies with the internal product Augmented Coding.
+MVD Technologies
+Microsoft Architect and SharePoint Developer
+August 2017 - August 2018 (1 year 1 month)
+Montevideo, Uruguay
+Developed new features in their products MVD Quality and MVD Comply built
+on SharePoint 2013. MVD Quality make companies life easier to adapt to
+the new ISO rules. MVD Comply is a framework that helps managing flags
+and alert for each employee personalized profile and it's easy to adapt to new
+rules in the environment like for example new Government requirements. This
+product has farm and sandbox solutions and an advanced client-side scripting.
+Currently we are adapting some modules to be compatible with SharePoint
+  Page 3 of 9
+--- Page 4 ---
+   
+Online. Currently, we are working with countries like Peru, Argentina, Chile and
+Uruguay.
+New installations in SharePoint 2013, development of new features and web
+development both server side in C# and client side Javascript frameworks
+and JQuery. A lot of the code has been rebuilt in complex Javascript code
+that can run in SharePoint Online and Azure. The company has their own
+SharePoint tools that are offered to licensed clients make their lives easier.
+Besides there is a lot of older code built in C# working in Visual Studio 2015
+that has to be maintained and improved. Added to this, I have worked a lot with
+the SharePoint using its Rest Services and built in controls that are useful for
+many clients. The daily work also included full stack developing customizing
+Html Forms, adding Javascript, CSS and adapt the system to more than 100
+clients.
+(Own company)
+Solution architect and SharePoint Developer
+February 2017 - August 2017 (7 months)
+Montevideo
+Developed a new Intranet for an American Oil company called Lindsayca in
+SharePoint Online. Developed mainly in Jsom and Nintex Online Workflows.
+Some work with requirements and overall design. Created a responsive
+master page in SharePoint Online. 
+Developed bugfixes for other companies mainly in SharePoint 2013 and 2010
+on premises.
+Urudata Software
+.NET Developer
+September 2016 - December 2016 (4 months)
+Montevideo
+Developed a new system in .NET MVC 5 and SQL Server 2012 for a Brazilian
+bank called Itaú. We created a system to follow up and track the states of all
+new digitalized client documents in 20 agencies. Most of the work was done in
+C# in a Web application with a heavy front end in Html5, JQuery and Angular
+1.0. Urudata's own products Q-Flow and Intellikom were integrated to provide
+a more robust functionality.
+Grupo Pragma Consultores
+Software Architect, Program Manager
+August 2015 - August 2016 (1 year 1 month)
+Montevideo, Uruguay
+  Page 4 of 9
+--- Page 5 ---
+   
+Pragma - Practia
+http://www.practia.global
+Worked as an program manager, managing about 4 teams with 3 developers
+each. I was responsible for blockers, delivery, assign tasks, performance
+adjustments and scrum for each team. I was also responsable to setup up dev
+environments, repositories and other installations.
+Dec-2015 - August-2016
+http://www.upm.com/uy/
+UPM - Uruguay
+Refactoring/adding new features for their core systems and responsible for
+adding new techniques and creating a decoupled 3 layer architecture with OR
+mapper and unit of works in the Data Layer. Decoupled the EF with business
+objects using Automapper Technics. Used transaction safe context, and
+other suitable design patterns. Created an architecture that will suit a group
+of 4 developers to work for until end of 2017. Introduced Team City to run
+automated tests on a build server.
+Environment: EF7, Visual Studio 2015, TDD with continuous intregration, SQL
+Server 2014,Git, Jira, Bitbucket, Scrum and XP.
+August-2015 - Dec-2015
+http://www.gnlquintero.com/ 
+GNLQ 
+Big gas company in Chile. Managed several SharePoint farm solutions
+including uploads with performance indicators in Excel and new sites with
+data.
+Environment: .NET & SharePoint 2010.
+Oct-2015 - Dec-2015
+http://ww3.bancochile.cl/ 
+Banco de Chile
+Chile's second largest bank. Business Intelligence and managed the
+development of the Intranet site for the norms and standard department. 
+Environment; SharePoint 2010. 
+Sep-2015 - Dec-2015
+https://www.mutual.cl
+Mutual
+Healthcare company in Chile. Managed their solutions and solved issues after
+their migration to SharePoint 2013.
+  Page 5 of 9
+--- Page 6 ---
+   
+Environment: SharePoint 2013.
+HiQ
+4 years 7 months
+IT Consultant - Technical Solution Architect and .NET developer
+February 2013 - July 2015 (2 years 6 months)
+Sweden
+Envac AB.
+http://www.envac.se. 
+Developed their applications and web services that are implemented World
+Wide. We are creating an API to their software product that will make their
+system cross platform. Introduced a framework for unit tests using the VS test
+explorer to improve quality. Optimized applications in code and SQL, recursive
+SQL stored procedures and created some WCF Services for backups, send
+data, control processes and receive and send data to OPC servers needed
+for the company’s core business. Created a Window service that could never
+go down and had to recover himself besides connection and hardware and
+database failures. New features and product development with Visual Studio
+2010, 2012 and 2013, C#, Sql Server 2008 R2, Windows Server 2008 R2,
+windows services with WCF, InstallShield 2012, OPC server (Twincat),
+software architecture and software refactoring.
+SharePoint & NET / Developer & Solution architect
+January 2011 - July 2015 (4 years 7 months)
+Gothenburg, Sweden
+April 2015 - June 2015 . 
+Internal at HiQ
+Developed the new HiQ Intranet in SharePoint online with technologies such
+as Yammer, OneDrive, ADFS, Angular, Search, and traduce requirement in
+new SharePoint features.
+May 2014 - June 2014.
+Collector Bank.
+https://www.collector.se/privat/betalkoll/
+Developed backend in Azure for automatic invoice payments for Iphone/
+Android apps. Integrated backend with Collector legacy and validation system .
+The backend consisted in a Rest Service in Azure mobile services with the
+Visual Studio Api2 project template and Angular in the frontend. The App is
+called Collector betalkoll.
+  Page 6 of 9
+--- Page 7 ---
+   
+Internal at HiQ
+February 2013. 
+Created a search engine and a search page to search for competences and
+CV in the HiQ Intranet. SharePoint 2010.
+January 2013. 
+SCA. 
+Used Windows Communication Foundation to create an independent service
+to control and restart the current services. C# and Visual Studio 2010.
+November 2011 - January 2013.
+Volvo Cars Corporation.
+http://www.volvocars.com/
+Developer and SharePoint assistant for the new Worldwide Intranet for VCC.
+It is my 4th Intranet working as a developer in SharePoint 2010! Created the
+first architecture and development environment in a virtual machine and have
+worked as a developer from start. Added to this, working with requirements
+and intensive courses for Editors. SharePoint configuration "in place" and
+troubleshooting. Bug fixing. Overall assisting in their Office 365 solution and
+SharePoint Online, both in developing, input of content and new requirements.
+October 2011. 
+Danaher - Kollmorgen 
+Worked as architect in new system in .NET for the harbour.
+August 2011 - November 2011.
+Atria
+Developer for the www.atria.se Intranet in SharePoint 2010.
+Sogeti
+IT Consultant - Senior Developer and SharePoint MCTS
+February 2011 - August 2011 (7 months)
+Working as a senior .NET Developer and consultant.
+Working in several projects with SharePoint  2010 development and Visual
+Studio 2010. Developed a new news and blog portal for Stora Enso and
+worked on the new Intranet for the Chalmers university in Gothenburg.
+Admeta
+Software engineer
+  Page 7 of 9
+--- Page 8 ---
+   
+February 2007 - December 2009 (2 years 11 months)
+In Admeta I worked with tasks like software development, database
+administration, optimisation algorithms, technical support in the online media
+industry.
+Environment: : ASP.NET 3.5, Visual Studio 2008, C# , MySql, GUI, CSS,
+Javascript, XHTML, Nhibernate & Limelight (O/R Mappers), WCF, Flash, .NET
+Ajax, mySQL, SQLServer, Windows Services, threading, Log4Net, IIS, Chart
+Director, Dundas Charts, SharePoint, Media Wiki, Subversion, Scrum, XP,
+Resharper, automated (NUnit and Selenium) and manual testing.
+Other tools: Team City, Confluence (from Atlassian), Mantis, Flash Decompiler
+Trilix and Adobe Flash CS4.
+Franklins
+Mobile technology researcher, developer
+November 2006 - February 2007 (4 months)
+GPS location based systems
+Find new mobile usability and products. Develop maps for the Scandinavian
+countries.
+Environment: ASP.NET 2.0, Visual Studio 2005, C# 2.0, SQL (MySql)
+Progressdata
+Developer
+November 2005 - July 2006 (9 months)
+Architect, project leader, developer.
+Developed a site to facilitate competence updates for consultants and projects
+in a company. 
+Education .NET for Progressdata consultants.
+Environment: : : ASP.NET 2.0, Visual Studio 2005, C# 2.0, SQL (SQL Server
+2005).
+Own company
+Developer
+March 1999 - March 2001 (2 years 1 month)
+Software for printers, analyse, budgets, cost estimation, design and testing.
+Environment: VB 6.0, Access, SQL Server, RUP, UML, DFD; 2 (5)
+  Page 8 of 9
+--- Page 9 ---
+   
+IBM
+Software developer
+March 2000 - December 2000 (10 months)
+Programmed with Visual Basic and C. Installed Siebel in Comercial bank in
+Montevideo, Uruguay.
+Education
+Chalmers University of Technology
+Master's Degree, Mobile Services · (2004 - 2006)
+Universidad ORT Uruguay
+High School, Systems Engineering · (1993 - 1999)
+  Page 9 of 9

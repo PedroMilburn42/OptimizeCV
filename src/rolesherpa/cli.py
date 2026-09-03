@@ -10,8 +10,6 @@ from dataclasses import asdict
 from pathlib import Path
 
 from rolesherpa.connectors.registry import ConnectorRegistry
-from rolesherpa.documents.render import render
-from rolesherpa.documents.verify import verify
 from rolesherpa.domain.chronology import (
     detect_gaps,
     detect_impossible_ranges,
@@ -106,6 +104,8 @@ def _build_parser() -> argparse.ArgumentParser:
 
 def _run_render_verify(args) -> int:
     try:
+        from rolesherpa.documents.verify import verify
+
         pdf_bytes = Path(args.path).read_bytes()
         result = verify(
             pdf_bytes,
@@ -129,7 +129,7 @@ def _run_render_verify(args) -> int:
 
 
 def _load_postings(path: str) -> list[JobPosting]:
-    data = json.loads(Path(path).read_text())
+    data = json.loads(Path(path).read_text(encoding="utf-8"))
     return [JobPosting(**item) for item in data]
 
 
@@ -152,8 +152,10 @@ def _run_dedup_filter(args) -> int:
 
 def _run_render_pdf(args) -> int:
     try:
-        html = Path(args.html_path).read_text()
-        css = Path(args.css).read_text() if args.css else None
+        from rolesherpa.documents.render import render
+
+        html = Path(args.html_path).read_text(encoding="utf-8")
+        css = Path(args.css).read_text(encoding="utf-8") if args.css else None
         pdf_bytes = render(html, css=css)
         Path(args.output_path).write_bytes(pdf_bytes)
     except Exception as exc:  # noqa: BLE001 - CLI boundary: any render failure becomes a clean JSON error
@@ -170,7 +172,7 @@ def _entry_label(entry) -> str:
 
 def _run_profile_audit_chronology(args) -> int:
     try:
-        text = Path(args.path).read_text()
+        text = Path(args.path).read_text(encoding="utf-8")
         entries = parse_profile_experience(text)
     except Exception as exc:  # noqa: BLE001 - CLI boundary: any read/parse failure becomes a clean JSON error
         _print_error(str(exc), "AUDIT_ERROR")

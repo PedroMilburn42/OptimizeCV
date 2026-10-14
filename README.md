@@ -1,6 +1,4 @@
-# RoleSherpa
-
-![RoleSherpa banner](docs/assets/banner.jpg)
+# OptimizeCV
 
 **An AI-native job-search copilot that runs inside your coding agent — no separate app, no API bill, no dashboard to check.**
 
